@@ -1,0 +1,8 @@
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\bin\Debug\Economic.dll
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\bin\Debug\Economic.pdb
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\obj\Debug\Economic.csproj.AssemblyReference.cache
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\obj\Debug\Economic.AssemblyInfoInputs.cache
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\obj\Debug\Economic.AssemblyInfo.cs
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\obj\Debug\Economic.csproj.CoreCompileInputs.cache
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\obj\Debug\Economic.dll
+C:\Users\chedo\OneDrive\Pulpit\najlepsze\.mono\temp\obj\Debug\Economic.pdb

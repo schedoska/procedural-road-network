@@ -1,0 +1,27 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://World.cs" type="Script" id=1]
+[ext_resource path="res://Tekstury/Trawa.png" type="Texture" id=2]
+
+[node name="World" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="Trawa" type="Sprite" parent="."]
+position = Vector2( 611.159, 546.109 )
+texture = ExtResource( 2 )
+offset = Vector2( -138.526, -187.254 )
+
+[node name="Trawa3" type="Sprite" parent="."]
+position = Vector2( 606.299, 1262.12 )
+texture = ExtResource( 2 )
+offset = Vector2( -138.526, -187.254 )
+
+[node name="Trawa2" type="Sprite" parent="."]
+position = Vector2( 1546.45, 543.331 )
+texture = ExtResource( 2 )
+offset = Vector2( -138.526, -187.254 )
+
+[node name="Trawa4" type="Sprite" parent="."]
+position = Vector2( 1545.96, 1258.8 )
+texture = ExtResource( 2 )
+offset = Vector2( -138.526, -187.254 )
